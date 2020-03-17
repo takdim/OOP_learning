@@ -1,0 +1,6 @@
+Husni : Adit, 2014; Joko, 1999; Riska, 2002
+Joko : Rihanna, 2011; Hani, 2010
+Adit : Alex, 2008; Riska, 2003; Hani, 2014
+Hani : Syukron, 2017; Habib, 2007; Joko, 2010
+Rihanna : Husni, 2007; Labibah, 2008
+Sofyan : Joko, 2001
